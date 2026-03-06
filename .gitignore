@@ -1,3 +1,12 @@
 .venv/
+output/
 
+# alias for cloud-based reading log
+reading-log.txt 
+
+# mac file
 .DS_Store
+
+# python cache
+__pycache__/
+*.pyc
