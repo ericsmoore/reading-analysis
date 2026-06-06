@@ -61,3 +61,7 @@ density (poetry, prose, drama all mixed in).
 - Exact word count still works fine
 - Didn't record the first session, so leaving this one untimed. Makes things
 more simple for me, and ebooks might be complicated.
+
+#### Different Seasons (15)
+- ebook so no-curve just time and pages/chars
+- Page count based on first ed. Viking.
