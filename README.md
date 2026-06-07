@@ -65,3 +65,8 @@ more simple for me, and ebooks might be complicated.
 #### Different Seasons (15)
 - ebook so no-curve just time and pages/chars
 - Page count based on first ed. Viking.
+
+#### Beowulf: A New Verse Translation (16)
+- I had the bilingual ed. Only read the English side. Page and word count based
+on only the English pages.
+- Session pages are the physical page #
