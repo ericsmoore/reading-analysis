@@ -2,6 +2,8 @@
 
 For now mostly just gathering data.
 
+![./outputs/fig.png]
+
 ## Notes
 
 - Page Count on Books sheet is not really needed for full data books. In that

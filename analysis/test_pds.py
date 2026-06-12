@@ -36,7 +36,7 @@ ax.xaxis.set_minor_locator(mdates.WeekdayLocator(byweekday=mdates.SU))
 ax.grid(axis='x', which='major', linestyle='--', alpha=0.3)
 plt.tight_layout()
 
-plt.savefig('outputs/fig.png', dpi=600)
+plt.savefig('outputs/fig.png')
 
 num_books = len(books)
 total_seconds = sum(sessions['active_time'].dropna().dt.total_seconds())
