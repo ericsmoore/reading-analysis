@@ -2,7 +2,7 @@
 
 For now mostly just gathering data.
 
-![./outputs/fig.png]
+![Hours of Reading per Day](./outputs/fig.png)
 
 ## Notes
 
