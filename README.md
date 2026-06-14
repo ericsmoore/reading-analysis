@@ -72,3 +72,12 @@ more simple for me, and ebooks might be complicated.
 - I had the bilingual ed. Only read the English side. Page and word count based
 on only the English pages.
 - Session pages are the physical page #
+
+#### The Death of Ivan Ilyich ... (17)
+- Using the publication date of the titular story
+  - Too many choices otherwise. Translations all have dates, each story has
+  original dates, penguin has a date ...
+  - Sits pretty much in the middle of the other stories, so probably the best
+  average date for any analysis purposes? Or maybe not. Do the translations
+  affect the reading more?
+- Good example of a time where I can still do a curve even though there's separate stories: all the same kind of text and density.
