@@ -81,3 +81,6 @@ on only the English pages.
   average date for any analysis purposes? Or maybe not. Do the translations
   affect the reading more?
 - Good example of a time where I can still do a curve even though there's separate stories: all the same kind of text and density.
+
+#### Friday (21)
+- No format available for an exact word count. Used a converted PDF---not perfect.
