@@ -26,8 +26,8 @@ hours_per_day = (
 ax = hours_per_day.plot(
     title='Hours of Reading per Day',
     legend=False,
-    yticks=[0, 1, 2],
-    ylim=(0, 2.5),
+    yticks=[0, 1, 2, 3],
+    ylim=(0, 3.5),
 )
 
 ax.xaxis.set_major_locator(mdates.MonthLocator())
