@@ -84,3 +84,6 @@ on only the English pages.
 
 #### Friday (21)
 - No format available for an exact word count. Used a converted PDF---not perfect.
+
+#### Crazy Genie (28)
+- Word count based on first page because I'm lazy.
